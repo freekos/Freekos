@@ -17,5 +17,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
-![banner-monochrome](https://user-images.githubusercontent.com/81808264/201869404-c7457998-fedb-4f30-b50f-6608ed30dd83.jpg)
+![banner-monochrome (1)](https://user-images.githubusercontent.com/81808264/201891206-6add862b-5276-48b0-af42-8debc1df69a9.jpg)
+
 ![comet](https://user-images.githubusercontent.com/81808264/201869819-687969b8-b4b8-4448-ac17-c91a9f2db5e4.png)
