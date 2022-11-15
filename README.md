@@ -15,8 +15,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+  
+![banner-monochrome (1)](https://user-images.githubusercontent.com/81808264/201891598-285d9ed8-52fc-4915-9c4e-c089c410f8f1.jpg)
 
 
-![banner-monochrome (1)](https://user-images.githubusercontent.com/81808264/201891206-6add862b-5276-48b0-af42-8debc1df69a9.jpg)
-
-![comet](https://user-images.githubusercontent.com/81808264/201869819-687969b8-b4b8-4448-ac17-c91a9f2db5e4.png)
+![comet (1)](https://user-images.githubusercontent.com/81808264/201891486-53ef204f-1313-4a7a-96e7-9d4f03b63976.png)
