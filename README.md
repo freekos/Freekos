@@ -5,7 +5,7 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https: //dev.to/@freekos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Социальные/devto.svg" alt="@freekos" height="30" width="40" /></a>
+<a href="https://dev.to/@freekos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Социальные/devto.svg" alt="@freekos" height="30" width="40" /></a>
 <a href="https://twitter.com/gazizbolat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="gazizbolat" height="30" width="40" /></a>
 </p>
 
