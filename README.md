@@ -1,7 +1,7 @@
   Hi 👋 I'm Gaziz!
 ======================
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freekos)](https://github.com/anuraghazra/github-readme-stats)
+[![Freekos's GitHub stats](https://github-readme-stats.vercel.app/api?username=freekos)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width="1029" alt="Снимок экрана 2023-01-15 в 20 40 21" src="https://user-images.githubusercontent.com/81808264/212547344-52b32979-a63d-4b68-bc24-016c6cc62c67.png">
 
