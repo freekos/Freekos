@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я Freekos</h1>
+<h1 align="center">Hi 👋, im Freekos</h1>
 <h3 align="center">Software Engineer: Javascript, Typescript, Rust, CS ❤️❤️❤️</h3>
 
 <p align="left "> <a href="https://twitter.com/gazizbolat" target="blank"><img src="https://img.shields.io/twitter/follow/gazizbolat?logo=twitter&style=for- the-badge" alt="gazizbolat" /></a> </p>
