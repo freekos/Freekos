@@ -16,7 +16,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freekos&show_icons=true&locale=en&layout=compact" alt="freekos" /> </p>
 
+<dd></dd>
+
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=freekos&show_icons=true&locale=en" alt="freekos" /> </p>
 
+<dd></dd>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freekos&" alt="freekos" /></p>
