@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Freekos</h1>
+<h1 align="center">Hi 👋, I'm Gaziz</h1>
 <h3 align="center">Software Engineer: JavaScript, TypeScript, Rust, CS ❤️❤️❤️</h3>
 
 <p align="left"> 
